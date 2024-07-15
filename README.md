@@ -44,12 +44,12 @@
 ![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel&logoColor=339933)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Command Line](./imgs/icons8-cmd-48.png)&nbsp;
+<a href="./imgs/cmd.png.png">
+<img src="./imgs/icons8-vs-code-48.png" width="127px" height="23px">
+</a>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<!-- ![Visual Studio Code](./imgs/icons8-vs-code-48.png)&nbsp; -->
-<a href="./imgs/icons8-vs-code-48.png">
-#Visual Studio Code
-<img src="./imgs/icons8-vs-code-48.png" width="22px">
+<a href="./imgs/vs code.png">
+<img src="./imgs/vs code.png" width="148px" height="27px">
 </a>
 
 <div>  
