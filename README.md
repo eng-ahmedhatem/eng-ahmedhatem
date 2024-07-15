@@ -47,6 +47,10 @@
 ![Command Line](./imgs/icons8-cmd-48.png)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](./imgs/icons8-vs-code-48.png)&nbsp;
+<a href="./imgs/icons8-vs-code-48.png">
+<!-- Visual Studio Code -->
+<img src="./imgs/icons8-vs-code-48.png">
+</a>
 
 <div>  
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge"><br>
