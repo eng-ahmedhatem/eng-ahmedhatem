@@ -44,8 +44,8 @@
 ![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel&logoColor=339933)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-<a href="./imgs/cmd.png.png">
-<img src="./imgs/icons8-vs-code-48.png" width="127px" height="23px">
+<a href="./imgs/cmd.png">
+<img src="./imgs/cmd.png" width="127px" height="23px">
 </a>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <a href="./imgs/vs code.png">
