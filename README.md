@@ -37,6 +37,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
 ![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php&logoColor=339933)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=339933)&nbsp;
 ![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel&logoColor=339933)&nbsp;
