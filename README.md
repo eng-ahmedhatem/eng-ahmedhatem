@@ -5,9 +5,16 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  
+</p> -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" style="border: 2px solid #f75c7e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  </a>
+</p>
+
 
 - 🏢 I'm a MERN Full-stack-web-developer
 - 👨‍💻 Study management information systems and computer science,  constantly learning and exploring new technologies to improve my skills.
