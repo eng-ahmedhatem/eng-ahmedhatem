@@ -1,31 +1,21 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-<h3 align="center">
-  Welcome to ahmed hatem's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> <h3 align="center"> Welcome to Ahmed Hatem's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  
-</p> -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" style="border: 2px solid #f75c7e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" style="border: 2px solid #f75c7e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"> </a> </p>
 
+🏢 MERN Full-stack Web Developer
+👨‍💻 Education: Studying Management Information Systems and Computer Science. Constantly learning and exploring new technologies to sharpen my skills.
 
-🏢 **MERN Full-stack Web Developer**
+💬 Talk to Me About: My experience with JavaScript, ReactJS, and PHP, or anything related to web development.
 
-👨‍💻 **Education**: Studying Management Information Systems and Computer Science. Constantly learning and exploring new technologies to sharpen my skills.
+⚡ Fun Fact: I'm a coffee enthusiast. My perfect day starts and ends with a cup of coffee.
 
-💬 **Talk to Me About**: My experience with **JavaScript**, **ReactJS**, and **PHP**, or anything related to web development.
+👨‍💻 Portfolio: Check out my portfolio at ahmadhatem.com to see some of the projects I've worked on.
 
-⚡ **Fun Fact**: I'm a coffee enthusiast. My perfect day starts and ends with a cup of coffee.
+<hr>
 
-👨‍💻 **Portfolio**: Check out my portfolio at [ahmadhatem.com](https://ahmadhatem.com/) to see some of the projects I've worked on.
+<h2 align="center">Connect with Me :</h2>
 
+<p align="center"> <a href="https://wa.me/+201508902659" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> <a href="mailto:mr.ahmedhatem.mo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.facebook.com/ahmad.hatem.9638/" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%20eng-ahmedhatem" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/ahmadelshnawe/?igshid=NGExMmI2YTkyZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://t.me/@Ahmad_Hatem" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> </p>
 <hr>
 <h2>Connect with Me :</h2>
 
