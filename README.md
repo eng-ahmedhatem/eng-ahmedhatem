@@ -16,11 +16,16 @@
 </p>
 
 
-- 🏢 I'm a MERN Full-stack-web-developer
-- 👨‍💻 Study management information systems and computer science,  constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and php, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://ahmadhatem.com/ to see some of the projects I've worked on.
+🏢 **MERN Full-stack Web Developer**
+
+👨‍💻 **Education**: Studying Management Information Systems and Computer Science. Constantly learning and exploring new technologies to sharpen my skills.
+
+💬 **Talk to Me About**: My experience with **JavaScript**, **ReactJS**, and **PHP**, or anything related to web development.
+
+⚡ **Fun Fact**: I'm a coffee enthusiast. My perfect day starts and ends with a cup of coffee.
+
+👨‍💻 **Portfolio**: Check out my portfolio at [ahmadhatem.com](https://ahmadhatem.com/) to see some of the projects I've worked on.
+
 <hr>
 <h2>Connect with Me :</h2>
 
