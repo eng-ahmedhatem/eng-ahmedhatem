@@ -17,36 +17,32 @@
 <hr>
 <h2>Connect with Me :</h2>
 
-<a href="https://wa.me/+201508902659" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<br>
+<a href="https://wa.me/+201508902659" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<a href="mailto:mr.ahmedhatem.mo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/ahmad.hatem.9638/" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/%20eng-ahmedhatem" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmadelshnawe/?igshid=NGExMmI2YTkyZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/@Ahmad_Hatem" target="_blank"><img src="https://img.shields.io/badge/-ahmed%20hatem-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="mailto:mr.ahmedhatem.mo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.facebook.com/ahmad.hatem.9638/" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%20eng-ahmedhatem" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/ahmadelshnawe/?igshid=NGExMmI2YTkyZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://t.me/@Ahmad_Hatem" target="_blank"><img src="https://img.shields.io/badge/ahmed%20hatem-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=339933)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=00758F)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
-![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
-![CMD](https://img.shields.io/badge/-CMD-05122A?style=flat&logo=windows-terminal)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5&logoWidth=20)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6&logoWidth=20)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat-square&logo=sass&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoWidth=20)
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat-square&logo=jquery&logoWidth=20)
+![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoWidth=20)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js&logoWidth=20)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express&logoWidth=20)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=339933&logoWidth=20)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=00758F&logoWidth=20)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C&logoWidth=20)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=tailwindcss&logoWidth=20)
+![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat-square&logo=visual-studio-code&logoWidth=20)
+![CMD](https://img.shields.io/badge/-CMD-05122A?style=flat-square&logo=windows-terminal&logoWidth=20)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&logoWidth=20)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoWidth=20)
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat-square&logo=npm&logoWidth=20)
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 <div>  
