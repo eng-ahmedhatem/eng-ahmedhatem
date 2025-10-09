@@ -67,9 +67,8 @@ Coffee enthusiast ☕ - My perfect coding day starts and ends with a quality cup
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eng-ahmedhatem&style=for-the-badge&label=REAL+VIEWS" alt="Eng Ahmed Hatem Real Views">
-  <img src="https://img.shields.io/badge/TOTAL%20VISITS-5K%2B-success?style=for-the-badge" alt="Estimated Total Views">
-</div>
+ <img src="https://img.shields.io/badge/PROFILE%20VIEWS-5000%2B-blueviolet?style=for-the-badge" alt="Eng Ahmed Hatem Profile Views">
+
 
 
 <div align="center">
@@ -78,6 +77,7 @@ Coffee enthusiast ☕ - My perfect coding day starts and ends with a quality cup
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmedhatem&layout=compact&theme=radical" alt="Most Used Languages">
 
+</div>
 </div>
 
 ## 🚀 Development Journey
