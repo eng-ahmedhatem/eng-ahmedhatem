@@ -71,12 +71,13 @@ Coffee enthusiast ☕ - My perfect coding day starts and ends with a quality cup
 <img src="https://komarev.com/ghpvc/?username=ahmedhatem&style=for-the-badge&label=PROFILE+VIEWS" alt="Eng Ahmed Hatem Profile Views">
 </div>
 
-<p align="center">
-<!-- استبدل 'ahmedhatem' باسم المستخدم الحقيقي على GitHub -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhatem&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=000000" alt="Eng Ahmed Hatem Most Used Languages" width="45%"/>
+<div align="center">
+  
+![Eng Ahmed Hatem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhatem&show_icons=true&theme=radical)
+  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhatem&layout=compact&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedhatem&show_icons=true&locale=en&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=000000" alt="Eng Ahmed Hatem GitHub Stats" width="50%"/>
-</p>
+</div>
 
 ## 🚀 Development Journey
 
