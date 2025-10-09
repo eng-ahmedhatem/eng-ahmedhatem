@@ -68,12 +68,14 @@ Coffee enthusiast ☕ - My perfect coding day starts and ends with a quality cup
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ahmedhatem&style=for-the-badge&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=ahmedhatem&style=for-the-badge&label=PROFILE+VIEWS" alt="Eng Ahmed Hatem Profile Views">
 </div>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhatem&show_icons=true&locale=en&layout=compact&theme=radical" alt="Eng Ahmed Hatem Most Used Languages" width="40%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedhatem&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Eng Ahmed Hatem GitHub Stats" width="55%"/>
+<!-- استبدل 'ahmedhatem' باسم المستخدم الحقيقي على GitHub -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhatem&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=000000" alt="Eng Ahmed Hatem Most Used Languages" width="45%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedhatem&show_icons=true&locale=en&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=000000" alt="Eng Ahmed Hatem GitHub Stats" width="50%"/>
 </p>
 
 ## 🚀 Development Journey
