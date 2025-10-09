@@ -66,16 +66,15 @@ Coffee enthusiast ☕ - My perfect coding day starts and ends with a quality cup
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ahmedhatem&style=for-the-badge&label=PROFILE+VIEWS" alt="Eng Ahmed Hatem Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=eng-ahmedhatem&style=for-the-badge&label=PROFILE+VIEWS" alt="Eng Ahmed Hatem Profile Views">
 </div>
 
 <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=eng-ahmedhatem&show_icons=true&theme=radical" alt="Eng Ahmed Hatem's GitHub Stats">
   
-![Eng Ahmed Hatem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhatem&show_icons=true&theme=radical)
-  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhatem&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmedhatem&layout=compact&theme=radical" alt="Most Used Languages">
 
 </div>
 
