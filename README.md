@@ -17,7 +17,7 @@ I am **Eng Ahmed Hatem**, a passionate MERN Full-Stack Web Developer specializin
 Currently studying Management Information Systems and Computer Science. Continuously learning and exploring new technologies to enhance my development skills and stay updated with industry trends.
 
 **💼 Portfolio & Projects**  
-Explore my comprehensive portfolio at [ahmadhatem.com](http://ahmadhatem.com) to see detailed case studies of projects I've developed using MERN stack and other modern technologies.
+Explore my comprehensive portfolio at [ahmadhatem.com](http://eng-ahmedhatem.com) to see detailed case studies of projects I've developed using MERN stack and other modern technologies.
 
 **💬 Technical Expertise**  
 Specialized in JavaScript, ReactJS, Node.js, and PHP development. Experienced in building full-stack applications, RESTful APIs, and responsive user interfaces.
