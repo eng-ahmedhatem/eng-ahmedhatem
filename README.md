@@ -1,30 +1,35 @@
 <!--
-  Ahmed Hatem | GitHub Profile README
-  IMPORTANT: Upload this README.md AND the entire assets/ folder to the root of
-  github.com/eng-ahmedhatem/eng-ahmedhatem. GIFs are local, animated assets.
-  GitHub README does not support custom CSS or JavaScript; motion comes from GIF.
+  GitHub profile README: Eng Ahmed Hatem
+  SINGLE-FILE VERSION. Replace the existing README.md with this entire file.
+  No local ./assets/ references. All animated media below are public external URLs.
+  Some external illustration services may occasionally be unavailable.
 -->
 
 <div align="center">
-  <a href="https://eng-ahmedhatem.com/" title="Ahmed Hatem — WordPress & Full-Stack Developer Portfolio">
-    <img src="./assets/ahmed-hatem-animated-banner.gif" width="100%" alt="Animated developer banner: Ahmed Hatem, WordPress and MERN Full-Stack Developer specializing in Technical SEO, Web Performance and AI-Assisted Development" />
+
+  <a href="https://eng-ahmedhatem.com/" title="Ahmed Hatem: WordPress Developer, MERN Full-Stack Engineer and Technical SEO Specialist">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1026,45:192C63,100:04B8D8&amp;height=235&amp;section=header&amp;text=AHMED+HATEM&amp;fontColor=FFFFFF&amp;fontSize=55&amp;fontAlignY=34&amp;desc=WORDPRESS++%7C++MERN+STACK++%7C++TECHNICAL+SEO&amp;descSize=17&amp;descAlignY=56&amp;animation=twinkling" width="100%" alt="Animated header for Ahmed Hatem, WordPress Developer, MERN Full-Stack Engineer and Technical SEO Specialist" />
   </a>
 
   <h1>Ahmed Hatem — WordPress &amp; MERN Full-Stack Developer</h1>
-  <p><strong>Custom WordPress Engineering · Elementor · WooCommerce · MERN Stack · Technical SEO · Vibe Coding</strong></p>
+  <p><strong>WordPress Plugin Development · Elementor · WooCommerce · React · Node.js · Technical SEO · Vibe Coding</strong></p>
 
-  <img src="./assets/typing-specializations.gif" width="100%" alt="Animated typing of specializations: WordPress plugins and Elementor widgets; MERN full-stack applications; technical SEO and Core Web Vitals; AI-assisted development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=650&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=54&amp;lines=Custom+WordPress+Plugins+%26+Elementor+Widgets;MERN+Full-Stack+Development+%7C+React+%26+Node.js;Technical+SEO+%26+Core+Web+Vitals;AI-Assisted+Development+%7C+Vibe+Coding" width="100%" alt="Animated typing: WordPress plugins, MERN stack development, technical SEO and AI-assisted programming" />
 
   <br /><br />
 
-  <a href="https://eng-ahmedhatem.com/"><img src="https://img.shields.io/badge/PORTFOLIO-View_My_Work-0b2941?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=6af1db" alt="View Ahmed Hatem's developer portfolio" /></a>
-  <a href="https://github.com/eng-ahmedhatem?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore_Projects-161b2b?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Ahmed Hatem's repositories" /></a>
-  <a href="https://wa.me/201508902659"><img src="https://img.shields.io/badge/LET'S_TALK-Start_a_Project-087f79?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Start a WordPress or web development project with Ahmed Hatem" /></a>
+  <a href="https://eng-ahmedhatem.com/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-12244A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://github.com/eng-ahmedhatem?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-See_My_Code-111827?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub projects" /></a>
+  <a href="https://wa.me/201508902659"><img src="https://img.shields.io/badge/HIRE_ME-Let's_Talk-087F79?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=FFFFFF" alt="WhatsApp" /></a>
+
 </div>
 
 ---
 
-## 👋 About Me
+
+## 👋 About Me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="waving hand animation" />
+
+<img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="280" alt="Animated web development and programming technology stack" />
 
 I'm **Ahmed Hatem**, a **WordPress developer, MERN full-stack developer, and technical SEO specialist based in Egypt**. I build high-performance websites, custom CMS experiences, e-commerce stores, and scalable web applications that are **fast, usable, maintainable, and discoverable in search**.
 
@@ -148,9 +153,14 @@ I don't treat SEO as a checklist added after launch. I build websites with **tec
 
 ## ⚙️ How I Work
 
-<div align="center">
-  <img src="./assets/development-workflow.gif" width="100%" alt="Animated six-step web development workflow: Discover, Design, Develop, Review, Optimize and Ship, combining human judgment with AI-assisted speed" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Discover-172554?style=for-the-badge" alt="Discover" />
+  <img src="https://img.shields.io/badge/02-Design-1E40AF?style=for-the-badge" alt="Design" />
+  <img src="https://img.shields.io/badge/03-Develop-0891B2?style=for-the-badge" alt="Develop" />
+  <img src="https://img.shields.io/badge/04-Review-0F766E?style=for-the-badge" alt="Review" />
+  <img src="https://img.shields.io/badge/05-Optimize-7C3AED?style=for-the-badge" alt="Optimize" />
+  <img src="https://img.shields.io/badge/06-Ship-059669?style=for-the-badge" alt="Ship" />
+</p>
 
 > **Vibe coding, with engineering standards:** I use AI tools to accelerate exploration and implementation, then review the resulting architecture, security, testing, accessibility, and performance before shipping.
 
